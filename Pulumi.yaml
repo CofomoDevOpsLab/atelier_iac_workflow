@@ -1,0 +1,6 @@
+name: workflow
+runtime:
+  name: python
+  options:
+    toolchain: poetry
+description: Atelier Pulumi - workflow de travail (clone, branche, changement, preview, deploy, merge request)
